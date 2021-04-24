@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Asignacion\Asignacion\bin\Debug\netcoreapp3.1\Asignacion.exe
+C:\Users\HP\source\repos\Asignacion\Asignacion\bin\Debug\netcoreapp3.1\Asignacion.deps.json
+C:\Users\HP\source\repos\Asignacion\Asignacion\bin\Debug\netcoreapp3.1\Asignacion.runtimeconfig.json
+C:\Users\HP\source\repos\Asignacion\Asignacion\bin\Debug\netcoreapp3.1\Asignacion.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Asignacion\Asignacion\bin\Debug\netcoreapp3.1\Asignacion.dll
+C:\Users\HP\source\repos\Asignacion\Asignacion\bin\Debug\netcoreapp3.1\Asignacion.pdb
+C:\Users\HP\source\repos\Asignacion\Asignacion\obj\Debug\netcoreapp3.1\Asignacion.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Asignacion\Asignacion\obj\Debug\netcoreapp3.1\Asignacion.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Asignacion\Asignacion\obj\Debug\netcoreapp3.1\Asignacion.AssemblyInfo.cs
+C:\Users\HP\source\repos\Asignacion\Asignacion\obj\Debug\netcoreapp3.1\Asignacion.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Asignacion\Asignacion\obj\Debug\netcoreapp3.1\Asignacion.dll
+C:\Users\HP\source\repos\Asignacion\Asignacion\obj\Debug\netcoreapp3.1\Asignacion.pdb
+C:\Users\HP\source\repos\Asignacion\Asignacion\obj\Debug\netcoreapp3.1\Asignacion.genruntimeconfig.cache
